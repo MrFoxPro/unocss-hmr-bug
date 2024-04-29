@@ -1,0 +1,23 @@
+{
+  "name": "vite-template-solid",
+  "type": "module",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "solid-js": "^1.8.17"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.42",
+    "@unocss/core": "^0.59.4",
+    "lightningcss": "^1.24.1",
+    "typescript": "^5.4.5",
+    "unocss": "^0.59.4",
+    "vite": "^5.2.10",
+    "vite-plugin-solid": "^2.10.2"
+  }
+}
